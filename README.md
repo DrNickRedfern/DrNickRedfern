@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?label=computationalfilmanalysis.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](computationalfilmanalysis.wordpress.com)
 
 ## I'm a researcher in computational film analysis
+
 - My research develops and applies methods and computational tools in order to understand form and style in motion pictures
 - My current research projects look at sound design in film trailers, modelling editing in Hollywood cinema, and the uses of colour in film
 - I am currently working on a textbook on computational film analysis using R aimed at beginners who would like to analyse film style while developing new skills
@@ -11,6 +12,7 @@
 </br>
 
 ### Languages and tools
+
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="padding-right:10px;" />
