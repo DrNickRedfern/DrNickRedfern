@@ -34,7 +34,7 @@
 - [New research on sound in horror film trailers published](https://computationalfilmanalysis.wordpress.com/2021/11/01/new-research-on-sound-in-horror-film-trailers-published/)
 --->
 
-:arrow_forward: [more blog posts...](https://computationalfilmanalysis.wordpress.com/?feed=rss)
+:arrow_forward: [more blog posts...](https://computationalfilmanalysis.wordpress.com/blog/)
 
 ---
 
