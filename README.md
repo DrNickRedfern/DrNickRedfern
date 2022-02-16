@@ -30,6 +30,9 @@ https://orcid.org/0000-0002-7821-2404</a>
 <img align="left" alt="Visual Studio Code" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 
 </br>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrNickRedfern&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -52,3 +55,4 @@ https://orcid.org/0000-0002-7821-2404</a>
   <img align="left" alt="DrNickRedfern's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DrNickRedfern&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
