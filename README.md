@@ -9,7 +9,7 @@ https://orcid.org/0000-0002-7821-2404</a>
 
 [![Website](https://img.shields.io/website?label=computationalfilmanalysis.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](computationalfilmanalysis.wordpress.com)
 
-## I'm a researcher in computational film analysis
+## I am interested in computational film analysis as a means of exploring film form and film style
 
 - My research develops and applies methods and computational tools in order to understand form and style in motion pictures
 - My current research projects look at sound design in film trailers, modelling editing in Hollywood cinema, and the uses of colour in film
