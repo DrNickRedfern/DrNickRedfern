@@ -1,11 +1,11 @@
 # Welcome, my name is Nick Redfern
 
-[![Website](https://img.shields.io/website?label=computationalfilmanalysis.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](computationalfilmanalysis.wordpress.com)
-
 <a href="https://orcid.org/0000-0002-7821-2404">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 https://orcid.org/0000-0002-7821-2404
 </a>
+
+[![Website](https://img.shields.io/website?label=computationalfilmanalysis.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](computationalfilmanalysis.wordpress.com)
 
 ## I'm a researcher in computational film analysis
 
