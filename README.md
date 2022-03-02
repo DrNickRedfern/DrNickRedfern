@@ -40,11 +40,11 @@ https://orcid.org/0000-0002-7821-2404</a>
 
 ### :scroll: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Film editing as a Hawkes process](https://computationalfilmanalysis.wordpress.com/2022/03/02/film-editing-as-a-hawkes-process/)
 - [Who &lpar;or what&rpar; is a filmmaker?](https://computationalfilmanalysis.wordpress.com/2022/01/11/who-or-what-is-a-filmmaker/)
 - [New data set published](https://computationalfilmanalysis.wordpress.com/2021/11/14/new-data-set-published/)
 - [New research on sound in horror film trailers published](https://computationalfilmanalysis.wordpress.com/2021/11/01/new-research-on-sound-in-horror-film-trailers-published/)
 - [New research, data set and app published](https://computationalfilmanalysis.wordpress.com/2021/09/09/trailers-colour-published/)
-- [SLviz: a shiny app for computational film analysis](https://computationalfilmanalysis.wordpress.com/2021/04/26/slviz/)
 <!-- BLOG-POST-LIST:END -->
 
 :arrow_forward: [more blog posts...](https://computationalfilmanalysis.wordpress.com/blog/)
