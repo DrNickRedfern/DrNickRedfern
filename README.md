@@ -36,6 +36,9 @@ https://orcid.org/0000-0002-7821-2404</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrNickRedfern&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Gists
+You can find my gists at [https://gist.github.com/DrNickRedfern](https://gist.github.com/DrNickRedfern).
+
 ---
 
 ### :scroll: Latest blog posts
