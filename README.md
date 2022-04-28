@@ -43,11 +43,11 @@ You can find my gists at [https://gist.github.com/DrNickRedfern](https://gist.gi
 
 ### :scroll: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Computational analysis of film audio](https://computationalfilmanalysis.wordpress.com/2022/04/28/computational-analysis-of-film-audio/)
 - [Film editing as a Hawkes process](https://computationalfilmanalysis.wordpress.com/2022/03/02/film-editing-as-a-hawkes-process/)
 - [Who &lpar;or what&rpar; is a filmmaker?](https://computationalfilmanalysis.wordpress.com/2022/01/11/who-or-what-is-a-filmmaker/)
 - [New data set published](https://computationalfilmanalysis.wordpress.com/2021/11/14/new-data-set-published/)
 - [New research on sound in horror film trailers published](https://computationalfilmanalysis.wordpress.com/2021/11/01/new-research-on-sound-in-horror-film-trailers-published/)
-- [New research, data set and app published](https://computationalfilmanalysis.wordpress.com/2021/09/09/trailers-colour-published/)
 <!-- BLOG-POST-LIST:END -->
 
 :arrow_forward: [more blog posts...](https://computationalfilmanalysis.wordpress.com/blog/)
