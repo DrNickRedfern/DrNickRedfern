@@ -14,8 +14,8 @@ https://orcid.org/0000-0002-7821-2404</a>
 ### I am interested in computational film analysis as a means of exploring film form and film style
 
 - My research develops and applies methods and computational tools in order to understand form and style in motion pictures
+- My online interactive book *Computational Film Analysis with R* is now available [here](https://cfa-with-r.netlify.app/)
 - My current research projects look at sound design in film trailers, modelling editing in Hollywood cinema, and the uses of colour in film
-- I am currently working on a textbook on computational film analysis using R aimed at beginners who would like to analyse film style while developing new skills
 - You can read my published research [here](https://independent.academia.edu/NickRedfern)
 
 </br>
