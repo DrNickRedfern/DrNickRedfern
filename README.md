@@ -43,11 +43,11 @@ You can find my gists at [https://gist.github.com/DrNickRedfern](https://gist.gi
 
 ### :scroll: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SLviz now available as an executable for windows](https://computationalfilmanalysis.wordpress.com/2022/11/02/slviz-now-available-as-an-executable-for-windows/)
 - [New article on analysing shot length data published](https://computationalfilmanalysis.wordpress.com/2022/10/27/new-article-on-analysing-shot-length-data-published/)
 - [MovieBarcodeAnalyzeR now available as executable for Windows](https://computationalfilmanalysis.wordpress.com/2022/10/27/moviebarcodeanalyzer-now-available-as-executable-for-windows/)
 - [Computational Film Analysis with R published](https://computationalfilmanalysis.wordpress.com/2022/09/13/computational-film-analysis-with-r-published/)
 - [New research of motion picture cutting rates published](https://computationalfilmanalysis.wordpress.com/2022/08/21/new-research-of-motion-picture-cutting-rates-published/)
-- [New research on film editing published](https://computationalfilmanalysis.wordpress.com/2022/07/07/new-research-on-film-editing-published/)
 <!-- BLOG-POST-LIST:END -->
 
 :arrow_forward: [more blog posts...](https://computationalfilmanalysis.wordpress.com/blog/)
