@@ -2,6 +2,8 @@
 
 <!--![STFT_banner](https://computationalfilmanalysis.files.wordpress.com/2020/07/blog.png){height=60%}-->
 
+![](https://komarev.com/ghpvc/?username=DrNickRedfern&style=flat)
+
 <a href="https://orcid.org/0000-0002-7821-2404">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 https://orcid.org/0000-0002-7821-2404</a>
