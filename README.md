@@ -45,11 +45,11 @@ You can find my gists at [https://gist.github.com/DrNickRedfern](https://gist.gi
 
 ### :scroll: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New research on the analysis of film editing published](https://computationalfilmanalysis.wordpress.com/2023/06/28/new-research-on-the-analysis-of-film-editing-published/)
 - [New research on sound in horror film trailers published](https://computationalfilmanalysis.wordpress.com/2023/01/16/new-research-on-sound-in-horror-film-trailers-published-2/)
 - [New article on analysing film sound using R published](https://computationalfilmanalysis.wordpress.com/2022/12/31/new-article-on-analysing-film-sound-using-r-published/)
 - [SLviz now available as an executable for windows](https://computationalfilmanalysis.wordpress.com/2022/11/02/slviz-now-available-as-an-executable-for-windows/)
 - [New article on analysing shot length data published](https://computationalfilmanalysis.wordpress.com/2022/10/27/new-article-on-analysing-shot-length-data-published/)
-- [MovieBarcodeAnalyzeR now available as executable for Windows](https://computationalfilmanalysis.wordpress.com/2022/10/27/moviebarcodeanalyzer-now-available-as-executable-for-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 :arrow_forward: [more blog posts...](https://computationalfilmanalysis.wordpress.com/blog/)
